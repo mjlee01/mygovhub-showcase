@@ -1,4 +1,5 @@
-# [Logo](assets/logo/MyGovHub-Logo-Dark.png) MyGovHub
+# MyGovHub
+<img src="assets/logo/MyGovHub-Logo-Dark.png" alt="Logo" style="width:10%; height:auto"> <img src="assets/logo/MyGovHub-Logo-Light.png" alt="Logo" style="width:10%; height:auto"> 
 
 **A Unified Chatbot for Malaysian Government Services**
 
@@ -33,7 +34,7 @@ MyGov Hub addresses these issues by unifying multiple services into one accessib
 
 | Onboarding Screen | Chatbot Interface | Payment Integration |
 | ----------------- | ----------------- | -------------- |
-| [OnboardingScreen](assets/screenshots/onboarding.jpg)     | [ChatbotInterface](assets/screenshots/chatbot.jpg)     | [BillplzPaymentRedirect](assets/screenshots/payment.jpg)  |
+| ![OnboardingScreen](assets/screenshots/onboarding.jpg)     | ![ChatbotInterface](assets/screenshots/chatbot.jpg)     | ![BillplzPaymentRedirect](assets/screenshots/payment.jpg)  |
 
 ## Key Features
 
@@ -68,7 +69,7 @@ MyGov Hub addresses these issues by unifying multiple services into one accessib
 
 ### Architecture
 
-[Prelim Architecture Diagram](assets/architecture/system-architecture.png)
+![Prelim Architecture Diagram](assets/architecture/system-architecture.png)
 
 > A multi-layered architecture integrating a React Native frontend with MCP powered by Amazon Services, as well as AWS Lambda microservices (Preliminary Round Version).
 
