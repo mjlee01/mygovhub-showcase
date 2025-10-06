@@ -86,5 +86,6 @@ MyGov Hub addresses these issues by unifying multiple services into one accessib
 * Integrated Billplz payment gateway for secure financial transactions
 
 ## Project Status
+### 🚀 The full source code for [MyGovHub](https://github.com/MyGovHub-Goodbye-World) would go public soon!
 
-This project is currently under active development. The source code is hosted in a [private organisational repository](https://github.com/MyGovHub-Goodbye-World), which would go public soon. This showcase serves as a comprehensive overview of the architecture, vision, and implementation. 
+This project is currently under active development. The source code is hosted in a private repository, which would go public soon. This showcase serves as a comprehensive overview of the architecture, vision, and implementation. 
